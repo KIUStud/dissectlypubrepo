@@ -1,0 +1,14 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "Just a simple backend that I am using to practice node.js with express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
